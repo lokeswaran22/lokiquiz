@@ -1,6 +1,6 @@
 Lokiquiz
 
-Click here:'https://lokiquiz.netlify.app/'
+Click here : https://lokiquiz.netlify.app/
 
 This interactive quiz web app is designed to test and improve mathematical skills in a fun and engaging way. Users can generate random math problems based on four fundamental operations: Addition, Subtraction, Multiplication, and Division. The app provides a seamless experience where users can input their answers and submit them for validation.
 
